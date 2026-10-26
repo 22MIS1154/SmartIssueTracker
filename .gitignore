@@ -110,3 +110,4 @@ android/local.properties
 !.env.example
 npm-debug.log*
 .DS_Store
+android/app/debug.keystore
